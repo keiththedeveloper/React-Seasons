@@ -1,3 +1,9 @@
+# This project is from the Modern React with Redux [2020 Update] Udemy Course
+
+## Section 4: Structuring Apps with Class-Based Components
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
